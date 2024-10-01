@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "MetalRecyclingProject_2024"
+
+[preprocessor.plantuml]
+plantuml-cmd="http://localhost:8181"
