@@ -3,6 +3,7 @@
 - [Information](./Information.md)
   - [Group Information](./GroupInformation.md)
   - [Project Discription](./ProjectDiscription.md)
+  - [Project Planning](./ProjectPlanning.md)
 - [Automation System Blueprint](./AutomationSystemBlueprint.md)
   - [Analyses & Desing](./AnalysesDesing.md)
   - [Procces, FlowControl & Diagrams](./ProccesFlowControlDiagrams.md)
